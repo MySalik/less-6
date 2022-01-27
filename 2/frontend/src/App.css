@@ -1,0 +1,35 @@
+.card{
+	position: relative;
+}
+
+.close-icon{
+	position: absolute;
+	color: red;
+	right: -17px;
+	top: -17px;
+}
+
+form{
+	position: relative;
+}
+
+.send-icon{
+    position: absolute;
+    right: 11px;
+    bottom: 11px;
+}
+
+.refresh-icon{
+	color: rgb(23, 175, 23);
+	margin-left: 20px;
+	position: relative;
+	top: 3px
+}
+
+.circle{
+	border-radius: 50%;
+    border: 1px solid black;
+    cursor: pointer;
+	padding: 3px;
+	background: white;
+}
